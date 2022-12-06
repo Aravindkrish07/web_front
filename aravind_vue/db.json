@@ -1,0 +1,38 @@
+{
+  "companies":[
+  {
+    "id":1,
+    "anime" :"Attack on titan",
+    "developer" : "MAPPA studios",
+    "genre": "Anime, Horror, Drama, Dark fantasy, Adventure, Action fiction, Apocalyptic and post-apocalyptic fiction, Animation",
+    "rating":"9/10"
+    },
+    {
+    "id":2,
+    "anime" :"Death Note",
+    "developer" : "Madhouse",
+    "genre": "Anime, Horror, Drama, Mystery, Suspense, Thriller, Crime TV genre, Animation",
+    "rating":"9/10"
+    },
+    {
+    "id":3,
+    "anime" :"Jujutsu Kaisen",
+    "developer" : "MAPPA studios",
+    "genre": "Anime, Magic, Dark fantasy",
+    "rating":"8.7/10"
+    },
+    {
+    "id":4, 
+    "anime" :"Naurto",
+    "developer" : "Tv Tokyo",
+    "genre": "Action-Fiction-Adventure",
+    "rating":"8.6/10"
+    },
+    {
+    "id":5,
+    "anime" :"My Hero Academia",
+    "developer" : "Bones Inc.",
+    "genre": "Action, Animation",
+    "rating":"8.4/10"
+}]
+    }

@@ -27,22 +27,10 @@ export default {
       companies: []
     }
   },
-  methods: {
-
-// promises
-
-  async fetchBooks(){
-      const res = await fetch('http://localhost:8367/companies')
-      const data = await res.json()
-      console.log(data.companies)
-      return data.companies
-  }
-
-
-},
   async created(){
     this.companies = await this.fetchCompanies()
-}
+    console.log(this.companies);
+  }
 }
 </script>
 
